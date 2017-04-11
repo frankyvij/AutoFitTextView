@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <declare-styleable name="autoResizeElement">
+    <attr name="FieldValueType" format="enum">
+      <enum name="NotSet" value="0"/>
+      <enum name="GeneralText" value="1"/>
+    </attr>
+  </declare-styleable>
+</resources>
